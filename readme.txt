@@ -18,6 +18,12 @@ Easy HTML to pdf Plugin that save your webpage as pdf format. You can use php fu
 1. Upload "PDF Generator" to the "/wp-content/plugins/" directory.
 2. Activate the plugin through the "Plugins" menu in WordPress.
 3. Place shotcode ['wp_objects_pdf'] in text editor.
+
+== Screenshots ==
+1. Choose your button style. You can type simple text or word intead of Image.
+2. Paste your shotcode to show PDF link.
+3. Your PDF link is appeare on your web page.
+4. Your PDF Preview
 
 == Changelog ==
 
