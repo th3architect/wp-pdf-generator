@@ -13,7 +13,19 @@ Simply helps you to get your web page download as pdf
 == Description ==
 
 Easy HTML to pdf Plugin that save your webpage as pdf format. You can use php function as well as shortcode to display pdf download button. You can select different icons and text from backend for your download button.In this plugin we are using service of freehtmltopdf.com to generate pdf.
-
+
+= Rate This Plugin: =
+[Please rate WP PDF Generator Plugin](https://wordpress.org/support/view/plugin-reviews/wp-pdf-generator)
+
+= Features: =
+- Easy convert your page as pdf
+- Multiple options for pdf button
+- Type custom text as a download link to pdf
+
+= Docs & Support =
+You can find docs, FAQ and more detailed information about WP PDF Generator Plugin [WooExpert.com](http://wooexpert.com/products/wp-pdf-generator-plugin/).
+If you were unable to find the answer to your question on the FAQ or in any of the documentation, you should check the support forum on WordPress.org. If you can't locate any topics that pertain to your particular issue, post a new topic for it.
+
 == Installation ==
 1. Upload "PDF Generator" to the "/wp-content/plugins/" directory.
 2. Activate the plugin through the "Plugins" menu in WordPress.
