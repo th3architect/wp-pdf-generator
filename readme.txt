@@ -1,6 +1,6 @@
 === WP PDF Generator===
 Contributors: wooexpert
-Tags: pdf
+Tags: wordpress pdf plugin,wordpress pdf generator,pdf plugin, pdf wordpress plugin,pdf converter,html to pdf,web to pdf,web page to pdf,pdf generator,html to pdf php,php to pdf,save page as pdf,plugins,convert web to pdf,convert web page to pdf,save html as pdf,save web page as pdf, pages
 Donate link: http://wooexpert.com/
 Requires at least: 3.0.1
 Tested up to: 4.1
